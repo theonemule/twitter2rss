@@ -7,9 +7,9 @@ This script is easy to use:
 
 1. Register a new app with Twitter. It's a wizard. Once the application is registered, go to the "Keys and Access Tokens" tab. 
 
-```
-https://apps.twitter.com/
-```
+	```
+	https://apps.twitter.com/
+	```
 
 2. Open the script in your favorite text editor.
 
@@ -22,9 +22,10 @@ https://apps.twitter.com/
 6. Set $link to the URL of your blog, website, or Twitter page.
 
 7. Edit the search parameters. Twitter's search parameters are documented here. You can search on hashtags , users, and many other criterion.
-```
-https://dev.twitter.com/rest/public/search
-```
+
+	```
+	https://dev.twitter.com/rest/public/search
+	```
 
 8. Set the count to the number of items your want to return.
 
