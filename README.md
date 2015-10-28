@@ -17,7 +17,7 @@ This script is easy to use:
 
 4. Copy and Paste the "API Secret" into $APISecret in the script.
 
-5. Edit the $title, $description, and #copyright to your liking.
+5. Edit the $title, $description, and $copyright to your liking.
 
 6. Set $link to the URL of your blog, website, or Twitter page.
 
